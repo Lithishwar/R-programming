@@ -1,0 +1,6 @@
+print("Sequence of Numbers : 20 - 50 : ")
+print(seq(20,50))
+print("Mean of Numbers : 20 - 60 : ")
+print(mean(20:60))
+print("Sum of Numbers : 51 - 91 : ")
+print(sum(51:91))

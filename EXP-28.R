@@ -1,0 +1,8 @@
+L = sample(LETTERS,size=30,replace=TRUE)
+print("Original data : ")
+print(L)
+f=factor(L)
+print("Original Factors : ")
+print(f)
+print("Only five of the Letters : ")
+print(table(L[1:5]))
